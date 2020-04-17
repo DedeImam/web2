@@ -1,0 +1,120 @@
+<table width=500 align=center bgcolor=#CCCCCC>
+
+<tr bgcolor=#006600>
+
+<td width=250><font color =white> nama </font> <font color =red> Imam </font> <font color =white> email <font> <font color =red>dedeimamsaputro13@gmail.com </font></td>
+
+<td ><font color =white>tanggal </font> <font color =red> 17-04-20 | 11:10:05</font></td>
+
+</tr>
+
+<tr>
+
+<td colspan = 2 >berkata :ASIK</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<table width=500 align=center bgcolor=#CCCCCC>
+
+<tr bgcolor=#006600>
+
+<td width=250><font color =white> nama </font> <font color =red> Raisa </font> <font color =white> email <font> <font color =red>dedeimamsaputro13@gmail.com </font></td>
+
+<td ><font color =white>tanggal </font> <font color =red> 17-04-20 | 10:58:35</font></td>
+
+</tr>
+
+<tr>
+
+<td colspan = 2 >berkata :OKAY</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<table width=500 align=center bgcolor=#CCCCCC>
+
+<tr bgcolor=#006600>
+
+<td width=250><font color =white> nama </font> <font color =red> Imam </font> <font color =white> email <font> <font color =red>dedeimamsaputro13@gmail.com </font></td>
+
+<td ><font color =white>tanggal </font> <font color =red> 17-04-20 | 10:57:16</font></td>
+
+</tr>
+
+<tr>
+
+<td colspan = 2 >berkata :HALLO</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<table width=500 align=center bgcolor=#CCCCCC>
+
+<tr bgcolor=#006600>
+
+<td width=250><font color =white> nama </font> <font color =red>  </font> <font color =white> email <font> <font color =red> </font></td>
+
+<td ><font color =white>tanggal </font> <font color =red> 17-04-20 | 10:54:09</font></td>
+
+</tr>
+
+<tr>
+
+<td colspan = 2 >berkata :</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<table width=500 align=center bgcolor=#CCCCCC>
+
+<tr bgcolor=#006600>
+
+<td width=250><font color =white> nama </font> <font color =red>  </font> <font color =white> email <font> <font color =red> </font></td>
+
+<td ><font color =white>tanggal </font> <font color =red> 17-04-20 | 10:54:02</font></td>
+
+</tr>
+
+<tr>
+
+<td colspan = 2 >berkata :</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<table width=500 align=center bgcolor=#CCCCCC>
+
+<tr bgcolor=#006600>
+
+<td width=250><font color =white> nama </font> <font color =red>  </font> <font color =white> email <font> <font color =red> </font></td>
+
+<td ><font color =white>tanggal </font> <font color =red> 17-04-20 | 10:52:36</font></td>
+
+</tr>
+
+<tr>
+
+<td colspan = 2 >berkata :</td>
+
+</tr>
+
+</table>
+
+<br>
+
